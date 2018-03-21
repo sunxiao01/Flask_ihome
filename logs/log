@@ -1,0 +1,513 @@
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 21:59:57] "GET / HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 21:59:57] "GET / HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 21:59:57] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:00:18] "GET / HTTP/1.1" 404 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET / HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:46] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:47] "GET /static/js/ihome/index.js HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:47] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:47] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:47] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:15:58] "GET /register HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:04] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:04] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:04] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:41] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:41] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:54] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:54] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:54] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:54] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:54] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:54] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:54] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:55] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:55] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [18/Mar/2018 22:16:55] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 404 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:31:11] "GET /static/js/ihome/index.js HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:31:12] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:31:18] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:34:32] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:34:39] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:34:39] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:34:40] "GET /api/v1.0/imagecode/6070395e-39bc-4d67-8ee3-a25522f2a787 HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:39:51] "GET /api/v1.0/imagecode/c59e4c08-7cc4-46e1-af47-f98da79d0116 HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:39:58] "GET /api/v1.0/imagecode/0cc9cd42-2253-4aaa-91b5-e0d041ef7b1c HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:40:00] "GET /api/v1.0/imagecode/1a739592-8e6e-438e-9a41-c1de5cabee71 HTTP/1.1" 404 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/__init__.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:58:53] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 09:58:53] "GET /api/v1.0/imagecode/848be467-f4fc-4500-af1b-5c8c0345908d HTTP/1.1" 404 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/__init__.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:11] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:12] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:17:13] "GET /api/v1.0/imagecode/c3a8268d-97c2-4ed8-9ae1-8161c721b553 HTTP/1.1" 404 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:19:05] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:19:06] "GET /api/v1.0/imagecode/1986da43-24f2-44f2-a7c5-a80cf695fcf5 HTTP/1.1" 404 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:19:31] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:19:31] "GET /api/v1.0/imagecode/b227dacd-0b64-4975-904b-244bf0bca1a5 HTTP/1.1" 404 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:24:12] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:24:13] "GET /api/v1.0/imagecode/6be0abbe-b220-49b3-a31b-ec10c5883539 HTTP/1.1" 404 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:25:05] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:25:06] "GET /api/v1.0/imagecode/fbe7d768-138d-4e1f-ab30-8484aa002bb1 HTTP/1.1" 404 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:26:04] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:26:05] "GET /api/v1.0/imagecode/c390717a-fdbd-4496-8d3c-b1b6b859e660 HTTP/1.1" 500 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:28:53] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:28:54] "GET /api/v1.0/imagecode/58d9261e-9b89-4a76-b1ed-8251ee7b96f6 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:29:35] "GET /api/v1.0/imagecode/b6de5ee0-04b4-4c66-aea7-625f380a4210 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:29:36] "GET /api/v1.0/imagecode/9d0d1a93-3451-4077-a5a9-a7335e7850ec HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:29:37] "GET /api/v1.0/imagecode/55f55116-892e-403f-b738-d6f07466c6e7 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:29:38] "GET /api/v1.0/imagecode/2a1f0d7e-c050-4ea1-af8a-df7547c5a156 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 10:29:41] "GET /api/v1.0/imagecode/08b642e1-0ad7-4c1b-b7fb-d50de6e5572f HTTP/1.1" 200 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/register.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/register.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/register.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/__init__.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/__init__.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 11:41:13] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 11:41:16] "GET /api/v1.0/imagecode/42d32252-d581-46a0-8174-8e65b0bd84b2 HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 11:42:21] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 11:42:22] "GET /api/v1.0/imagecode/1cf790af-58aa-4f01-b8ac-40673716eb3d HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:21:57] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:22:04] "GET /api/v1.0/imagecode/87b5c2f5-8382-4baa-a689-091f45e9618e HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:22:14] "GET /api/v1.0/imagecode/e7a9b271-83d1-4d98-9a29-798177a04329 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:22:16] "GET /api/v1.0/imagecode/a61a02f2-7a25-4d4e-86eb-8309f1d80f05 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:22:18] "GET /api/v1.0/imagecode/bfe2c37c-50f2-46c5-86f8-080cb4059ad8 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:22:29] "GET /api/v1.0/smscode/13256175100?text=NCMN&id=bfe2c37c-50f2-46c5-86f8-080cb4059ad8 HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:23:24] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:23:27] "GET /api/v1.0/imagecode/4da094a4-a5d6-460e-a73d-056bb1f83f58 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:23:40] "GET /api/v1.0/smscode/13256175100?text=EOFV&id=4da094a4-a5d6-460e-a73d-056bb1f83f58 HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:24:39] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:24:40] "GET /api/v1.0/imagecode/e78d7d2b-3342-48e6-894f-b867d91deda4 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:24:47] "GET /api/v1.0/imagecode/1bd904b8-036b-4966-977f-2e7cf9d0b6e1 HTTP/1.1" 200 -
+ERROR register.py: 111 'utf8' codec can't decode byte 0xe6 in position 64: invalid continuation byte
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:24:57] "GET /api/v1.0/smscode/13256175100?text=w5j6&id=1bd904b8-036b-4966-977f-2e7cf9d0b6e1 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:24:59] "GET /api/v1.0/smscode/13256175100?text=w5j6&id=1bd904b8-036b-4966-977f-2e7cf9d0b6e1 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:25:00] "GET /api/v1.0/smscode/13256175100?text=w5j6&id=1bd904b8-036b-4966-977f-2e7cf9d0b6e1 HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:26:48] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:26:49] "GET /api/v1.0/imagecode/436c05bb-aa7f-468e-aff8-250882d085a8 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:27:02] "GET /api/v1.0/smscode/132569175100?text=fjge&id=436c05bb-aa7f-468e-aff8-250882d085a8 HTTP/1.1" 200 -
+ERROR register.py: 112 'utf8' codec can't decode byte 0xe6 in position 64: invalid continuation byte
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:27:18] "GET /api/v1.0/smscode/13256175100?text=fjge&id=436c05bb-aa7f-468e-aff8-250882d085a8 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:29:00] "GET /api/v1.0/smscode/13256175100?text=123655&id=436c05bb-aa7f-468e-aff8-250882d085a8 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:29:18] "GET /api/v1.0/imagecode/84ba08f4-7a66-410e-ae70-6326b1cd2972 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:29:18] "GET /api/v1.0/imagecode/2b4ffd89-397e-4abe-9c3a-63fae15a79b9 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:29:19] "GET /api/v1.0/imagecode/ad87595f-4e07-4914-8867-478106a0a841 HTTP/1.1" 200 -
+ERROR register.py: 112 'utf8' codec can't decode byte 0xe6 in position 64: invalid continuation byte
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:29:35] "GET /api/v1.0/smscode/13256175100?text=M5MI&id=ad87595f-4e07-4914-8867-478106a0a841 HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:33:28] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:33:29] "GET /api/v1.0/imagecode/f3315b0c-7222-4cc9-8303-b7d9475f87c9 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:33:42] "GET /api/v1.0/smscode/13256175100?text=vtlv&id=f3315b0c-7222-4cc9-8303-b7d9475f87c9 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [19/Mar/2018 21:34:13] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:45] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:46] "GET /api/v1.0/imagecode/e3f249a4-9035-43b8-b367-5217d8908594 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:46] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:55] "GET /api/v1.0/imagecode/20d781ee-463d-498c-a45b-6eb06d4e1162 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:43:56] "GET /api/v1.0/imagecode/a25dce00-f88e-476a-8143-52b0dc128edd HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:44:04] "GET /api/v1.0/smscode/1321?text=pgch&id=a25dce00-f88e-476a-8143-52b0dc128edd HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:44:22] "GET /api/v1.0/smscode/11257064358?text=pgch&id=a25dce00-f88e-476a-8143-52b0dc128edd HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:44:31] "GET /api/v1.0/smscode/13256175100?text=pgch&id=a25dce00-f88e-476a-8143-52b0dc128edd HTTP/1.1" 200 -
+INFO csrf.py: 251 The CSRF token is missing.
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:45:00] "POST /api/v1.0/users HTTP/1.1" 400 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:45:12] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO csrf.py: 251 The CSRF token is missing.
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:45:18] "POST /api/v1.0/users HTTP/1.1" 400 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:47:42] "GET /api/v1.0/smscode/13256175100?text=1234&id=a25dce00-f88e-476a-8143-52b0dc128edd HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:47:46] "GET /api/v1.0/imagecode/527cdb67-6b9f-481a-b821-648bf6080872 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:47:53] "GET /api/v1.0/smscode/13256175100?text=phjk&id=527cdb67-6b9f-481a-b821-648bf6080872 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:48:04] "GET /api/v1.0/smscode/13256175100?text=fhas&id=527cdb67-6b9f-481a-b821-648bf6080872 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:48:10] "GET /api/v1.0/smscode/13256175100?text=fhas&id=527cdb67-6b9f-481a-b821-648bf6080872 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:48:42] "GET /api/v1.0/imagecode/370e161b-c271-47c0-88dc-3baa4940e0ba HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:49:03] "GET /api/v1.0/smscode/13256175100?text=kisp&id=370e161b-c271-47c0-88dc-3baa4940e0ba HTTP/1.1" 200 -
+INFO csrf.py: 251 The CSRF token is missing.
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:49:15] "POST /api/v1.0/users HTTP/1.1" 400 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:57:25] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:57:26] "GET /api/v1.0/imagecode/7b9e22fd-3fae-4015-8378-d0347a71a73e HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:57:43] "GET /api/v1.0/smscode/13256175100?text=mxaz&id=7b9e22fd-3fae-4015-8378-d0347a71a73e HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:04] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/js/template.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:12] "GET /static/js/ihome/index.js HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 10:58:13] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:01:08] "GET /api/v1.0/imagecode/a62b1d57-09d1-4944-92e3-838880769df6 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:01:26] "GET /api/v1.0/smscode/132561751000?text=wisu&id=a62b1d57-09d1-4944-92e3-838880769df6 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:01:39] "GET /api/v1.0/smscode/132561751000?text=sisi&id=a62b1d57-09d1-4944-92e3-838880769df6 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:01:42] "GET /api/v1.0/smscode/132561751000?text=sisi&id=a62b1d57-09d1-4944-92e3-838880769df6 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:01:46] "GET /api/v1.0/smscode/13256175100?text=sisi&id=a62b1d57-09d1-4944-92e3-838880769df6 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:02:01] "GET /api/v1.0/smscode/13256175100?text=sisi&id=a62b1d57-09d1-4944-92e3-838880769df6 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:02:27] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:02:28] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:02:28] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:04:27] "POST /api/v1.0/sessions HTTP/1.1" 405 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:45:21] "GET /login.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:45:31] "POST /api/v1.0/sessions HTTP/1.1" 405 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:46:14] "GET /login.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:46:28] "POST /api/v1.0/sessions HTTP/1.1" 405 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:47:25] "GET /login.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:47:34] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:47:38] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:47:42] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:47:51] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:47:56] "POST /api/v1.0/sessions HTTP/1.1" 500 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:48:37] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:48:37] "GET / HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:48:37] "GET /static/js/ihome/index.js HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:48:38] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:51:29] "GET /api/v1.0/imagecode/ccd6da0b-f39c-4620-8382-08908aada354 HTTP/1.1" 200 -
+INFO csrf.py: 251 The CSRF token is missing.
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:52:47] "POST /api/v1.0/sessions HTTP/1.1" 400 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:53:16] "GET /login.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:53:32] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:53:32] "GET /static/js/ihome/index.js HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 11:53:33] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:23:21] "GET /auth.html HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:23:21] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:23:21] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:23:21] "GET /static/js/ihome/auth.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:23:22] "GET /api/v1.0/user/auth HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:23:30] "POST /api/v1.0/user/auth HTTP/1.1" 405 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:23:37] "POST /api/v1.0/user/auth HTTP/1.1" 405 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:26:16] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:26:16] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 12:26:17] "GET /api/v1.0/user HTTP/1.1" 404 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 18:09:41] "GET /api/v1.0/user HTTP/1.1" 500 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 18:32:29] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 18:32:30] "GET /api/v1.0/user HTTP/1.1" 500 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 18:32:47] "PUT /api/v1.0/user/name HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 18:32:53] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 18:32:53] "GET /api/v1.0/user HTTP/1.1" 500 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:52:48] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:52:50] "GET /api/v1.0/user HTTP/1.1" 200 -
+DEBUG connectionpool.py: 824 Starting new HTTPS connection (1): uc.qbox.me
+DEBUG connectionpool.py: 396 https://uc.qbox.me:443 "GET /v1/query?ak=y6qbofeaWzFdXoo5S9IFTfWML95c0WOUeuzOw1Lu&bucket=Ihome HTTP/1.1" 631 26
+ERROR image_storage.py: 31 'http'
+ERROR users.py: 142 'http'
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:53:00] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+DEBUG connectionpool.py: 824 Starting new HTTPS connection (1): uc.qbox.me
+DEBUG connectionpool.py: 396 https://uc.qbox.me:443 "GET /v1/query?ak=y6qbofeaWzFdXoo5S9IFTfWML95c0WOUeuzOw1Lu&bucket=Ihome HTTP/1.1" 631 26
+ERROR image_storage.py: 31 'http'
+ERROR users.py: 142 'http'
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:55:02] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:57:06] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:57:07] "GET /api/v1.0/user HTTP/1.1" 200 -
+DEBUG connectionpool.py: 824 Starting new HTTPS connection (1): uc.qbox.me
+DEBUG connectionpool.py: 396 https://uc.qbox.me:443 "GET /v1/query?ak=y6qbofeaWzFdXoo5S9IFTfWML95c0WOUeuzOw1Lu&bucket=ihome HTTP/1.1" 200 239
+DEBUG retry.py: 200 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+DEBUG connectionpool.py: 208 Starting new HTTP connection (1): up.qiniu.com
+DEBUG connectionpool.py: 396 http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+ERROR users.py: 149 'User' object has no attribute 'update'
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:57:12] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:58:53] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:58:54] "GET /api/v1.0/user HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:58:56] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+DEBUG retry.py: 200 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+DEBUG connectionpool.py: 208 Starting new HTTP connection (1): up.qiniu.com
+DEBUG connectionpool.py: 396 http://up.qiniu.com:80 "POST / HTTP/1.1" 200 76
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:59:02] "POST /api/v1.0/user/avatar HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:59:07] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:59:08] "GET /api/v1.0/user HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [20/Mar/2018 20:59:43] "GET /api/v1.0/user/auth HTTP/1.1" 404 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET / HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/js/template.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:45] "GET /static/js/ihome/index.js HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:46] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:46] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:55] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:55] "GET /static/css/ihome/profile.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:55] "GET /static/js/jquery.form.min.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:55] "GET /static/js/ihome/auth.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:35:56] "GET /api/v1.0/user/auth HTTP/1.1" 500 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:36:02] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:36:42] "POST /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:38:09] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:38:09] "GET /api/v1.0/user/auth HTTP/1.1" 500 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:38:26] "POST /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:38:52] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:38:53] "GET /api/v1.0/user/auth HTTP/1.1" 500 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:39:05] "POST /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:42:16] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:42:17] "GET /api/v1.0/user/auth HTTP/1.1" 500 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:42:29] "POST /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:43:09] "POST /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:51:50] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:51:52] "GET /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:51:54] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:51:55] "GET /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:53:09] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:53:10] "GET /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:53:15] "GET /auth.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 09:53:16] "GET /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87  * Detected change in '/home/python/Desktop/python_24/01-flask/ihome_Flask/ihome/api_1_0/users.py', reloading
+INFO _internal.py: 87  * Restarting with stat
+WARNING _internal.py: 87  * Debugger is active!
+INFO _internal.py: 87  * Debugger PIN: 290-397-261
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:49:51] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:49:51] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:49:51] "GET /static/js/ihome/register.js?v=4 HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:49:53] "GET /api/v1.0/imagecode/fedf5e52-4ec8-4702-b3fc-b61e5b9980ae HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:49:59] "GET /api/v1.0/imagecode/17a00da8-4ba2-4b64-8433-ea6fe1943729 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:50:19] "GET /api/v1.0/smscode/13256175100?text=xkei&id=17a00da8-4ba2-4b64-8433-ea6fe1943729 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:50:28] "GET /login.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:50:28] "GET /static/css/ihome/login.css HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:50:28] "GET /static/js/ihome/login.js HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:50:37] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:50:37] "GET /static/js/ihome/index.js HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:50:38] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:58:17] "GET /api/v1.0/imagecode/7ef955f4-8689-4aac-8384-4f1deffbe9f2 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:58:44] "GET /api/v1.0/smscode/13256175100?text=u5y0&id=7ef955f4-8689-4aac-8384-4f1deffbe9f2 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:58:47] "GET /api/v1.0/imagecode/b2497dbd-845d-4266-81a3-812295f9b106 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 10:58:54] "GET /api/v1.0/smscode/13256175100?text=7awx&id=b2497dbd-845d-4266-81a3-812295f9b106 HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:27] "GET /my.html HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:27] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:27] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:28] "GET /api/v1.0/user HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:44] "GET /api/v1.0/user/auth HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:49] "GET /api/v1.0/user HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:53] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:53] "GET /static/js/ihome/profile.js?v=5 HTTP/1.1" 304 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:12:54] "GET /api/v1.0/user HTTP/1.1" 200 -
+INFO _internal.py: 87 127.0.0.1 - - [21/Mar/2018 11:14:29] "GET /api/v1.0/user HTTP/1.1" 200 -
