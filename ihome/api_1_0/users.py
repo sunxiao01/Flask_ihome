@@ -219,3 +219,14 @@ def get_user_auth():
 
     # 4. 返回查询结果
     return jsonify(errno=RET.OK, errmsg='OK', data=user.auth_to_dict())
+
+
+@api.route('session', methods=['DELETE'])
+@login_required
+def logout():
+    """
+    退出登录
+    :return:
+    """
+    session.clear()
+    return jsonify(errno=RET.OK, errmsg='OK')
